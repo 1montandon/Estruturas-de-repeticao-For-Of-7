@@ -81,3 +81,17 @@ Os temas que aparecerão aqui repetidamente são:
 * switch... case
 * variáveis e operadores (muitas operações matemáticas!)
 * e, principalmente, **Arrays!!**
+
+##### Alguns links para estudos complementares
+
+* [Developer.mozilla - for...of](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for...of)
+* [W3Schools - JavaScript For Of](https://www.w3schools.com/js/js_loop_forof.asp)
+* [DevMedia - JavaScript: for, for...in, for...of](https://www.devmedia.com.br/javascript-for-for-in-for-of/41018)
+
+##### Vídeos de apoio
+* [Código Fonte TV](https://www.youtube.com/watch?v=NfHVPEzo5Ik&t=38s)
+* [Trybe](https://www.youtube.com/watch?v=lXsKBDhixXQ)
+* [Dev Aprender](https://www.youtube.com/watch?v=HFG_p4K2MAc)
+
+##### Dúvidas da comunidade sobre ***for...of***
+* [Stack Overflow - Qual é a diferença entre o for... of e o for...in](https://pt.stackoverflow.com/questions/90352/qual-%c3%a9-a-diferen%c3%a7a-entre-o-for-of-e-o-for-in)
