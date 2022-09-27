@@ -52,6 +52,7 @@ Assim, considerando que o tamanho do nosso array é 4 (possui quatro elementos),
 Nesse momento o programa finalizou as repetições, pois todos os itens do array *listaCompras* já foram lidos - ou seja, o programa percorreu todo o array, usando o ***for of*** para repetir as instruções para cada elemento do *listaCompras*.
 
 O resultado será o seguinte:
+
 ![document.write Incompleto](exemplo01_inc.png)
 O arquivo que contém o exemplo é o [exemplo01_inc.html](exemplo01_inc.html).
 
@@ -65,6 +66,7 @@ for (let item of listaCompras) {
 }
 ```
 O resultado será o seguinte:
+
 ![document.write Completo](exemplo01_comp.png)
 
 # IMPORTANTE!!!
