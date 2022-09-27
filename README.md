@@ -54,6 +54,7 @@ Nesse momento o programa finalizou as repetições, pois todos os itens do array
 O resultado será o seguinte:
 
 ![document.write Incompleto](exemplo01_inc.png)
+
 O arquivo que contém o exemplo é o [exemplo01_inc.html](exemplo01_inc.html).
 
 Para deixarmos o conteúdo de forma organizada, podemos escrever o contéudo em forma de ítens de uma lista não-ordenada.
@@ -68,6 +69,8 @@ for (let item of listaCompras) {
 O resultado será o seguinte:
 
 ![document.write Completo](exemplo01_comp.png)
+
+O arquivo que contém o exemplo é o [exemplo01_comp.html](exemplo01_comp.html).
 
 # IMPORTANTE!!!
 
