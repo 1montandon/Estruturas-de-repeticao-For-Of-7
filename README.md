@@ -80,7 +80,7 @@ Os temas que aparecerão aqui repetidamente são:
 * operador ternário (e operador ternário aninhado)
 * switch... case
 * variáveis e operadores (muitas operações matemáticas!)
-* e, principalmente, **Arrays!!**
+* e, principalmente, [**Arrays!!**](https://github.com/ldmfabio/1INFOs-vetores)
 
 ##### Alguns links para estudos complementares
 
@@ -89,7 +89,7 @@ Os temas que aparecerão aqui repetidamente são:
 * [DevMedia - JavaScript: for, for...in, for...of](https://www.devmedia.com.br/javascript-for-for-in-for-of/41018)
 
 ##### Vídeos de apoio
-* [Código Fonte TV](https://www.youtube.com/watch?v=NfHVPEzo5Ik&t=38s)
+* [Código Fonte TV](https://youtu.be/NfHVPEzo5Ik)
 * [Trybe](https://www.youtube.com/watch?v=lXsKBDhixXQ)
 * [Dev Aprender](https://www.youtube.com/watch?v=HFG_p4K2MAc)
 
