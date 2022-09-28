@@ -31,7 +31,9 @@ Este código construirá a seguinte estrutura:
 Para visualizar o que ocorre, ao executar o código citado anteriormente, você pode usar o [Python Tutor - JavaScript](https://pythontutor.com/javascript.html#mode=edit).
 
 No PythonTutor, ao executar a instrução para criar o array *listaCompras*, será mostrada a seguinte estrutura:
+
 ![Array](array.png)
+
 Ou seja, o conteúdo da posição **0 será "Acerola"**, o conteúdo da posição **1 será "Banana"**, o conteúdo da posição **2 será "Laranja"** e o conteúdo da posição **3 será "Melancia"**.
 
 Para que possamos escrever o conteúdo de todas as posições do Array para que o usuário possa saber o que possui na sua lista de compras, por exemplo, devemos utilizar as estruturas de repetição. Nesse caso, ***for of***.
