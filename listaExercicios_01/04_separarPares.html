@@ -9,11 +9,14 @@
     let listaDeItens = [1, "João", "Eduardo", "Joice", 3, 5, 6, 8, "Maria", 5.6, 10];
     let numerosPares = []
     //PROCESSAMENTO
-    for (item of listaDeItens){
+    for (let item of listaDeItens){
         if (item % 2 == 0 ){
             numerosPares.push(item)
         }
     }
+
+    document.write(`numeros pares: ${numerosPares.join(", ")} </br> quantidade de numeros pares: ${numerosPares.length} </br> quantidade de elementos da lista original: ${listaDeItens.length}`);
+
 
 
     //SAÍDA
